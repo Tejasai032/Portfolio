@@ -1,0 +1,48 @@
+.container{
+    position: relative;
+    background-color: rgba(12,12,12,0.6);
+    border-radius: 15px;
+    padding: 73px;
+    margin-top: 129px;
+    z-index: 1;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: white;
+}
+
+.Heading{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700px;
+    letter-spacing: 1.75px;
+}
+
+.content{
+    margin:4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.content p{
+    font-size: 25px;
+    font-family: "Roboto";
+}
+
+.role{
+    margin-top: 5%;
+    font-size: 28px;
+    font-weight: 600px;
+    letter-spacing: 1.75px;
+}
+
+.company{
+    font-size: 25px;
+    font-weight: 500px;
+    letter-spacing: 1.75px;
+}
+
+.companyinfo{
+    display: flex;
+    justify-content: space-between;
+}
